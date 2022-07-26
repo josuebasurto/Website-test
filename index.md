@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Josue Basurto Pages
+
+This website is a test for [Jekyll](https://jekyllrb.com/) and some other Github integrations, there is nothing exposed for you so consider this as a test.
+
+---
 
 You can use the [editor on GitHub](https://github.com/josuebasurto/Website-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
